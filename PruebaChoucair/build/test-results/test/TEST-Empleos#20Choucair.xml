@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Empleos Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-18T23:00:03" hostname="LAPTOP-NGCFT55A" time="17.167">
+  <properties/>
+  <testcase name="consultar empleos de pruebas" classname="Empleos Choucair" time="17.167"/>
+  <system-out><![CDATA[Se abrio correctamente la pagina empleos de choucair
+Se recorreran los emplos de pruenas
+Se valida que halla almenos minimo un empleo de pruebas en el portal de empleo y hay 4 empleos
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 46532
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jul. 18, 2021 6:00:06 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+com/co/certificacion/pruebas/definitions/EmpleosStepDefinitions.java
+ com.co.certificacion.pruebas.definitions.EmpleosStepDefinitions
+com/co/certificacion/pruebas/runnertest/TestRunnerCelulares.java
+ com.co.certificacion.pruebas.runnertest.TestRunnerCelulares
